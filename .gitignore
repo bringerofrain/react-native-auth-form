@@ -1,4 +1,4 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
-App.js
+Firebase.js
